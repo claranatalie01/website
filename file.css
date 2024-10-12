@@ -1,14 +1,15 @@
+/* file.css */
 body {
-    background-color: white;
-    color: black; /* Changed to black for visibility */
-    font-family: 'MutatorSans';
+    background-color: white; /* Set background color to white */
+    color: black;            /* Set text color to black */
+    font-family: 'MutatorSans', sans-serif; /* Fallback font */
 }
 
 h1 {
     text-align: center;
     font-size: 64px;
-    font-weight: bold; /* Use this for bold */
-    text-decoration: underline; /* Corrected */
+    font-weight: bold; /* Use bold for headers */
+    text-decoration: underline; /* Underline the header */
 }
 
 p {
