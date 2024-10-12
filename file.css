@@ -1,6 +1,6 @@
 
 body {
-    background-color: white; /* Set background color to white */
+    background-color: red; /* Set background color to white */
     color: black;            /* Set text color to black for visibility */
     font-family: 'MutatorSans', sans-serif; /* Fallback font */
 }
