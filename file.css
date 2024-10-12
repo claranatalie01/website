@@ -1,25 +1,25 @@
-body{
-	background-color:white;
-	color: white;
-	font-family:'MutatorSans';
-	
+body {
+    background-color: white;
+    color: black; /* Changed to black for visibility */
+    font-family: 'MutatorSans';
 }
 
-h1{
-	text-align: center;
-	font-size: 64px;
-	text-decoration:underline-bold;
+h1 {
+    text-align: center;
+    font-size: 64px;
+    font-weight: bold; /* Use this for bold */
+    text-decoration: underline; /* Corrected */
 }
 
-p{
-	font-size: 40px;
+p {
+    font-size: 40px;
 }
-#short{
-	height:100px;
+
+#short {
+    height: 100px;
 }
-.tall{
-	width: 100%;
-	height: 400px;
-	
-	
+
+.tall {
+    width: 100%;
+    height: 400px;
 }
